@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="25" height="25">
+### Hi there <img src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583" width="25" height="25">
 
 <!--
 **Sasha-hk/Sasha-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
