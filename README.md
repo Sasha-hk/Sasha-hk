@@ -15,5 +15,3 @@ I'm Sasha
 - 👽 Linux
 
 **[My website](https://petryk.me "Petryk Oleksandr's website")**
-
-**[My Instagram](https://instagram.com/petryk_oleksandr "Petryk Oleksandr's Instagrm profile")**
