@@ -12,6 +12,6 @@ I'm Sasha
 
 - 🐍 Python
 - ➰ Node.js
-- 👽 Linux
+- 🐧 Linux
 
 **[My website](https://petryk.me "Petryk Oleksandr's website")**
