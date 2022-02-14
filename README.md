@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" width="25" height="25">
 
 <!--
 **Sasha-hk/Sasha-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sashs
+
+**Breafly about me:**
+
+- I'm currently working on [`Appointment website`](https://github.com/Sasha-hk/Appointment-website "link to the repository")
+- I'm currently learning node.js
+- I'm looking for a web developer job / later I add link to download my CV
+
