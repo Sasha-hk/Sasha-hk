@@ -4,7 +4,7 @@ I'm Sasha
 
 **Breafly about me:**
 
-- 🔭 I'm currently working on [`Appointment website`](https://github.com/Sasha-hk/Appointment-website "link to the repository")
+- 🔭 I'm currently working on [Appointment website](https://github.com/Sasha-hk/Appointment-website "link to the repository")
 - 🍀 I'm currently learning node.js
 - 💻 I'm looking for a web developer job / later I add link to download my CV
 
