@@ -7,6 +7,7 @@ I'm a web developer
 - 🔭 I'm currently working on [Appointment website](https://github.com/Sasha-hk/Appointment-website "link to the repository")
 - 🍀 I'm currently learning node.js
 - 💻 I'm looking for a web developer job
+- ⏳ I'm learn to code for three years
 
 **My tech stack:**
 
@@ -14,4 +15,4 @@ I'm a web developer
 - ➰ Node.js
 - 🐧 Linux
 
-**[My website](https://petryk.me "Petryk Oleksandr's website")**
+See my projects below ⬇️
