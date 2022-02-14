@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sasha
+I'm a web developer
 
 **Breafly about me:**
 
