@@ -1,25 +1,18 @@
-### Hi there <img src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583" width="25" height="25">
+### Hi there 👋
 
-<!--
-**Sasha-hk/Sasha-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Sashs
+I'm Sasha
 
 **Breafly about me:**
 
-- I'm currently working on [`Appointment website`](https://github.com/Sasha-hk/Appointment-website "link to the repository")
-- I'm currently learning node.js
-- I'm looking for a web developer job / later I add link to download my CV
+- 🔭 I'm currently working on [`Appointment website`](https://github.com/Sasha-hk/Appointment-website "link to the repository")
+- 🍀 I'm currently learning node.js
+- 💻 I'm looking for a web developer job / later I add link to download my CV
 
+**My tech stack:**
+
+- 🐍 Python
+- ➰ Node.js
+- 👽 Linux
+
+**[My website](https://petryk.me "Petryk Oleksandr's website")**
+**[My Instagram](https://instagram.com/petryk_oleksandr "Petryk Oleksandr's Instagrm profile")**
