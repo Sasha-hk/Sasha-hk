@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a web developer
-
 **Breafly about me:**
 
 - ⚪ I'm currently working on [Appointment website](https://github.com/Sasha-hk/Appointment-website "link to the repository")
