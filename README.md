@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Briefly about me:**
+**About me:**
 
 - 🏔️ I'm currently working on [Appointment website](https://github.com/Sasha-hk/Appointment-website "link to the repository")
 - 🍀 I'm currently learning node.js
