@@ -10,7 +10,7 @@
 **My tech stack:**
 
 * 🐍 Python
-* ➰ Node.js
+* ➰ JavaScript
 * 🐧 Linux
   
 ⬇️ See my projects below ⬇️
