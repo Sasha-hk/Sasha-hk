@@ -9,7 +9,6 @@
 
 **My tech stack:**
 
-* 🐍 Python
 * ➰ Node.js
 * 🐧 Linux
   
