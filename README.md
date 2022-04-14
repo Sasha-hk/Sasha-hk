@@ -1,4 +1,4 @@
-### Hi there 👋 I'a Oleksandr
+### Hi there 👋 I'm Oleksandr
 
 **About me:**
 
