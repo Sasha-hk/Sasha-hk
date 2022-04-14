@@ -9,7 +9,7 @@
 
 **My tech stack:**
 
-* 🟩 Node.js `JS` `TS`
+* 🟢 Node.js `JS` `TS`
 * 🐧 Linux
   
 ⬇️ See my projects below ⬇️
