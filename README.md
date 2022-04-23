@@ -12,5 +12,12 @@
 
 * 🌀 Node.js `JS` `TS`
 * 🐧 Linux
+
+**Frameworks:**
+
+* Backend `Express` `Nest`
+* Frontend `React` `Next`
+* ORM `Sequelize` `Prisma`
+* Testing `Jest`
   
 ⬇️ See my projects below ⬇️
