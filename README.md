@@ -16,7 +16,7 @@
 **Frameworks:**
 
 * Backend `Express` `Nest`
-* Frontend `React` `Next`
+* Frontend `React` `Redux` `Next` 
 * ORM `Sequelize` `Prisma`
 * Testing `Jest`
   
