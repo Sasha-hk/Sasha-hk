@@ -18,6 +18,3 @@
 * Frontend `React` `Redux` `Next`
 * ORM `Sequelize` `Prisma`
 * Testing `Jest` `Mocks`
-
-⬇️ See my projects below ⬇️
- 
