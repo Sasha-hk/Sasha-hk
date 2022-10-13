@@ -17,4 +17,4 @@
 * Backend `Express` `Nest`
 * Frontend `React` `Redux` `Next`
 * ORM `Sequelize` `Prisma`
-* Testing `Jest` `Mocks` 
+* Testing `Jest` `Mocks`
