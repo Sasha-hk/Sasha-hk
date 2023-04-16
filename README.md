@@ -13,4 +13,3 @@
 - Cloud computing: AWS, Azure
 - Tools: GIT & GitHub, GPG, Docker, SSH, VIM, TMUX, VS Code
 - Other knowledge: CI/CD, JWT, OAuth2.0, OIDC
-
